@@ -1,3 +1,9 @@
 DHT 11: + = 3.3V, out = 15, - = GND
-Buzzer: + = GND
-Ses kartı: vcc= 5v out= 5 
+Buzzer: + = GND, out = 18
+Ses kartı: vcc= 5v out= 12 
+
+pip install pyserial
+
+
+https://techtutorialsx.com/2017/12/02/esp32-esp8266-arduino-serial-communication-with-python/
+https://how2electronics.com/esp32-max30100-pulse-oximeter-blynk/
